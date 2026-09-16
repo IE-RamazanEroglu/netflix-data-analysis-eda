@@ -41,7 +41,7 @@ Projenin temel amacı, platformdaki içerik dağılımını, üretim odağındak
 * `netflix_titles.csv` - Orijinal Netflix veri seti
 * `netflix_analiz.ipynb` - Veri temizleme, görselleştirme ve EDA notebook'u
 * `README.md` - Proje dokümantasyonu
-
+* `requirements.txt` - Gerekli Python kütüphaneleri listesi
 ---
 
 👤 **Hazırlayan:** [Ramazan Eroğlu](https://github.com/IE-RamazanEroglu)
